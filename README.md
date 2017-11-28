@@ -5,7 +5,7 @@ Via DrivenData.org:
 
 
 
-
+This competition is now closed, so I am doing this as a learning exercise. 
 
 
 Code is on the way!
